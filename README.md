@@ -5,6 +5,8 @@ The objective of this project was to understand the main reasons for customer ca
 
 Using data such as plan types, call center interactions, payment delays, and others, I conducted an in-depth analysis to pinpoint the most likely causes of cancellations. Additionally, I investigated ways to take proactive actions to improve customer retention and reduce churn, contributing to a more effective strategy for the company.
 Dataset Overview
+![image](https://github.com/user-attachments/assets/3bc6f5e8-28da-4dfe-8186-1bbd8b7948c1)
+
 
 The dataset consists of 881,659 records and 11 columns, as described below:
 Column	Description
