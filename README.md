@@ -85,4 +85,7 @@ Based on these findings, we recommend that the company:
     Improve the customer service experience to reduce the number of calls to the call center.
     Implement proactive measures for customers nearing payment delays to prevent cancellations.
 
+![image](https://github.com/user-attachments/assets/414d7389-3975-4d3e-a477-6c16dfa634ea)
+
+
 By addressing these issues, the company can reduce churn and improve customer retention.
