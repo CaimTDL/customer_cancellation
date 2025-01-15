@@ -30,6 +30,7 @@ The dataset contained missing values, which were handled by removing any rows wi
 # Distribution of Cancellations
 
 Initially, the distribution of cancellations was as follows:
+
 ![image](https://github.com/user-attachments/assets/b9947519-5e32-4226-8661-b5749d293373)
 
 
@@ -64,8 +65,19 @@ Conclusion
 The filters applied allowed us to reduce the churn rate significantly, from 56.71% to 18.40%. This analysis shows that the following factors are strongly associated with customer cancellations:
 
     The type of contract, with monthly plans having a higher likelihood of churn.
+
+![image](https://github.com/user-attachments/assets/2e02035d-04cd-49f7-a748-58be4fdd584d)
+
     The number of interactions with the call center, indicating potential service dissatisfaction.
+
+![image](https://github.com/user-attachments/assets/cdd08d4b-2c24-4f40-8ab3-23c3c629211b)
+
     Payment delays, with customers who are significantly overdue being more likely to cancel.
+   
+![image](https://github.com/user-attachments/assets/3c56ddc4-e337-42e6-8b11-d0ad4233a773)
+
+
+    
 
 Based on these findings, we recommend that the company:
 
