@@ -21,17 +21,24 @@ duracao_contrato	Duration of the contract (e.g., Monthly, Quarterly, Annual).
 total_gasto	Total spending by the customer.
 meses_ultima_interacao	Number of months since the last interaction.
 cancelou	Whether the customer canceled (1 = Yes, 0 = No).
-Data Cleaning
+
+# Data Cleaning
+![image](https://github.com/user-attachments/assets/fbb11830-2da7-43c5-aa6f-09fa8721e0eb)
 
 The dataset contained missing values, which were handled by removing any rows with null values. After cleaning, we maintained 881,659 records with no missing data.
-Distribution of Cancellations
+
+# Distribution of Cancellations
 
 Initially, the distribution of cancellations was as follows:
+![image](https://github.com/user-attachments/assets/b9947519-5e32-4226-8661-b5749d293373)
+
 
     Cancelled (1.0): 499,993 customers (56.71% of the total).
     Not Cancelled (0.0): 381,666 customers (43.29% of the total).
 
-After Data Filtering
+# After Data Filtering
+![image](https://github.com/user-attachments/assets/8d9eb419-b7c6-44be-a045-085537649396)
+
 
 To understand the reasons for customer cancellations, several filters were applied:
 
